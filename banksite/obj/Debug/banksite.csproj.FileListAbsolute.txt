@@ -1,0 +1,118 @@
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\banksite.dll.config
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\banksite.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\banksite.pdb
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csc.exe
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csc.exe.config
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csc.rsp
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csi.exe
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csi.exe.config
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\csi.rsp
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.AppContext.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Console.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Net.Http.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\vbc.exe
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\vbc.exe.config
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\vbc.rsp
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.AssemblyReference.cache
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.CoreCompileInputs.cache
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.CopyComplete
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\obj\Debug\banksite.dll
+C:\Users\Berat Can Kara\Desktop\banka\banksite\banksite\obj\Debug\banksite.pdb
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\banksite.dll.config
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\banksite.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\banksite.pdb
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csc.exe
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csc.exe.config
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csc.rsp
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csi.exe
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csi.exe.config
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\csi.rsp
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.AppContext.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Console.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.Compression.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Net.Http.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.ValueTuple.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\vbc.exe
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\vbc.exe.config
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\vbc.rsp
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\VBCSCompiler.exe
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yigit\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\banka\banksite\banksite\obj\Debug\banksite.csproj.CopyComplete
+C:\Users\yigit\Desktop\banka\banksite\banksite\obj\Debug\banksite.dll
+C:\Users\yigit\Desktop\banka\banksite\banksite\obj\Debug\banksite.pdb
